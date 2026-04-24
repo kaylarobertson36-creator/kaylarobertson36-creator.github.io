@@ -4,6 +4,7 @@ Analytics and insights professional at THE·TEAM (formerly Wasserman), a leading
 
 ---
 
+[📄 View My Resume & CV](resume)
 ### Contact
 
 - **Email:** [kaylarobertson36@gmail.com](mailto:kaylarobertson36@gmail.com)
