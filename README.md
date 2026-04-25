@@ -4,8 +4,8 @@ Analytics and insights professional at THE·TEAM (formerly Wasserman), a leading
 
 ---
 [📊 View Data Story](story)
-- `social_justice.md` — Computational Social Justice narrative connecting the Health Impact Score to food inequality, health literacy gaps, and advocacy recommendations
 [📄 View My Resume & CV](resume)
+- `social_justice.md` — Computational Social Justice narrative connecting the Health Impact Score to food inequality, health literacy gaps, and advocacy recommendations
 ### Contact
 
 - **Email:** [kaylarobertson36@gmail.com](mailto:kaylarobertson36@gmail.com)
